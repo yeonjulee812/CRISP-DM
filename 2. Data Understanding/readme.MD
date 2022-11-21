@@ -12,7 +12,7 @@
 - 목욕장 : 17190 rows x 51 columns -> 6316 rows x 8 columns 
 - 병의원 :
 - 주차장 :
- + 데이터 축소
+  + 데이터 축소
     - 15315 rows x 134 columns —> 15315 rows x 21 columns
     - 15.7 + MB —> 2.5 + MB
     - 최종 데이터:  `float64(3), int64(2), object(16)` 값 구성
