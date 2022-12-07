@@ -59,9 +59,9 @@
 | 민원 | --- | 삭제 |
 | 과태료 | --- | --- |
 | 금연구역 | 4 columns | 4 columns |
-| 목욕장 | 51 columns | 8 columns |
-| 병의원 | 29 columns | 7 columns |
-| 주차장 | 33 columns | 7 columns |
+| 목욕장 | 51 columns | 11 columns |
+| 병의원 | 29 columns | 9 columns |
+| 주차장 | 33 columns | 9 columns |
 | 상권정보 | 39 columns | 13 columns |
 | 지역사회건강조사 | --- | --- |
 | 주민등록인구 | --- | --- |
