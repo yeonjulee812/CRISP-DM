@@ -17,6 +17,7 @@
       - 자료요청 경로
         [자료요청 1단계 < 질병관리청 지역사회건강조사](https://chs.kdca.go.kr/chs/rdr/rdrInfoPledgeMain.do)
 
+
 **[ 질문리스트 요약본 ]**
 | 번호 | 질의 내용 | --- |
 | --- | --- | --- |
@@ -59,10 +60,6 @@
 8. 지역사회건강조사
     
     [지역사회건강조사 2017년 원시자료 이용지침서 등.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7496e2c6-2185-4fd8-ae43-3fc660213f8a/%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%EA%B1%B4%EA%B0%95%EC%A1%B0%EC%82%AC_2017%EB%85%84_%EC%9B%90%EC%8B%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%9A%A9%EC%A7%80%EC%B9%A8%EC%84%9C_%EB%93%B1.zip)
-    
-    1. 대전지역인구(표본조사)의 흡연실태(915건)
-9. 행정구역_행정동별_5세별_주민등록인구
-    1. 대전 행정구역(동읍면)별 0 - 19세 사이 인구
 
 
 [ 대전시 금연구역 지정 조례 ] 
