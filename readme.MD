@@ -72,7 +72,7 @@
 
 ## 4. 흡연위험지수 도출
 ### 흡연위험지수 산출식 설정
-![image](https://user-images.githubusercontent.com/69462995/209260537-446a674f-1ee5-4be4-8fd0-59d17b1a924c.png)
+![image](https://user-images.githubusercontent.com/69462995/209292130-c3f3e375-997d-4778-b791-46785aa648c9.png)
 
 ### 최종 구성변수
 ![image](https://user-images.githubusercontent.com/69462995/209260598-3eac6284-403a-4472-b2c1-c8042f2b9a0c.png)
