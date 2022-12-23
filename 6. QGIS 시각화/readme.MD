@@ -24,3 +24,19 @@
     - 취약계층 지역 히트맵 색상: 노란색
   + **단일 행정동 내 흡연위험 관련 오브젝트 밀집도 시각화 완료**<br><br>
  
+
+#### 4. 시각화 화면자료
+![image](https://user-images.githubusercontent.com/69462995/209299890-f4210a96-5d51-48de-ae7a-e50524c3e183.png)
+
+![image](https://user-images.githubusercontent.com/69462995/209299921-fcc095e5-20a1-43ff-a371-2c65dfb9336b.png)
+
+![image](https://user-images.githubusercontent.com/69462995/209299948-ac6dbd36-a54e-4971-bfae-ebcc3a3152a6.png)
+
+![image](https://user-images.githubusercontent.com/69462995/209299975-7639c91b-ad1d-41b2-90eb-b4b6fa74d559.png)
+
+![image](https://user-images.githubusercontent.com/69462995/209300006-30c34782-8995-4584-a09f-ac68b10ff516.png)
+
+![image](https://user-images.githubusercontent.com/69462995/209300032-021624cd-07fb-476d-b452-30c0ae4ec187.png)
+
+
+
